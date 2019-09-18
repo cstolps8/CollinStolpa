@@ -1,3 +1,6 @@
 node('master'){
-    powershell " echo hello"
+        stage('hello') {
+        // some block
+        powershell label: 'ello', script: """hello world"""
+    }
 }
