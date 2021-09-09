@@ -1,0 +1,6 @@
+/node_modules
+notes.txt
+
+login to aws 
+    -- ssh -i aws-key1.pem ec2-user@ec2-3-220-72-110.compute-1.amazonaws.com
+    
